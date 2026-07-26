@@ -1,0 +1,1 @@
+(function(){var c='@media(max-width:991px){.rk-workroot *{position:static!important;float:none!important}.rk-workroot{display:block!important}}';var s=document.createElement('style');s.textContent=c;document.head.appendChild(s);})();
