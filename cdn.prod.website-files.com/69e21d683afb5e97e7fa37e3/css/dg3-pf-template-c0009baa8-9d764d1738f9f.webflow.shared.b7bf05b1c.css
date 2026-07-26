@@ -2079,7 +2079,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
   font-family: Raleway;
-  src: url("../6a305788e13e3dfd2f66ad73_Raleway%20Thin.ttf") format("truetype"), url("../6a30578cff618d27fc754d26_Raleway-Thin.ttf") format("truetype"), url("../6a30578c895eb6177d1d6f1b_Raleway-Thin.ttf") format("truetype"), url("../6a30578c12fe32c08d14ddc6_Raleway-Thin.ttf") format("truetype"), url("../6a305788859b409992e633fe_Raleway%20Thin.otf") format("opentype");
+  src: url("../6a305788e13e3dfd2f66ad73_Raleway-Thin.ttf") format("truetype"), url("../6a30578cff618d27fc754d26_Raleway-Thin.ttf") format("truetype"), url("../6a30578c895eb6177d1d6f1b_Raleway-Thin.ttf") format("truetype"), url("../6a30578c12fe32c08d14ddc6_Raleway-Thin.ttf") format("truetype"), url("../6a305788859b409992e633fe_Raleway-Thin.otf") format("opentype");
   font-weight: 100;
   font-style: normal;
   font-display: swap;
