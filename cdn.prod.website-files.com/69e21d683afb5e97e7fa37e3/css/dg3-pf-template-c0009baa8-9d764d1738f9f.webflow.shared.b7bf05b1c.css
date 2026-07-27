@@ -5404,14 +5404,15 @@ img {
 #w-node-_5c96afe9-2746-58ca-3381-e2d3147f782d-d0ed252c, #w-node-_3fa75371-37fa-9a02-ac0f-5aa8847c4aed-d0ed252c {
   grid-area: span 1 / span 1 / span 1 / span 1;
 }
+
 @media screen and (max-width:767px){
-.rk-projleft{overflow:visible!important;height:auto!important;padding:0 16px 0 16px!important}
-.rk-projgallery{width:100%!important;flex-direction:column!important;align-items:stretch!important;row-gap:14px!important}
-.rk-projgallery .rk-galrow{flex-direction:column!important;width:100%!important;column-gap:0!important;row-gap:14px!important;align-items:stretch!important;margin-left:0!important}
-.rk-projgallery .rk-galrow.rk-galrow-b{margin-left:0!important}
-.rk-projgallery .rk-projimg,.rk-projgallery .rk-vwrap{width:100%!important;height:auto!important;max-width:100%!important;aspect-ratio:auto!important}
-.rk-projgallery .rk-vwrap .rk-projimg{width:100%!important;height:auto!important}
-.rk-projgallery.rk-photomode{flex-direction:column!important;overflow:visible!important;gap:14px!important;padding-top:0!important;height:auto!important}
-.rk-projgallery.rk-photomode .rk-projimg,.rk-projgallery.rk-photomode .rk-vwrap{height:auto!important;width:100%!important}
-.rk-galnav{display:none!important}
+.rk-projroot .rk-projleft{overflow:visible!important;height:auto!important;padding:0 16px!important}
+.rk-projroot .rk-projgallery{width:100%!important;flex-direction:column!important;align-items:stretch!important;row-gap:14px!important}
+.rk-projroot .rk-projgallery .rk-galrow{flex-direction:column!important;width:100%!important;column-gap:0!important;row-gap:14px!important;align-items:stretch!important;margin-left:0!important}
+.rk-projroot .rk-projgallery .rk-galrow.rk-galrow-b{margin-left:0!important}
+.rk-projroot .rk-projgallery .rk-projimg,.rk-projroot .rk-projgallery .rk-vwrap{width:100%!important;height:auto!important;max-width:100%!important;aspect-ratio:auto!important}
+.rk-projroot .rk-projgallery .rk-vwrap .rk-projimg{width:100%!important;height:auto!important}
+.rk-projroot .rk-projgallery.rk-photomode{flex-direction:column!important;overflow:visible!important;gap:14px!important;padding-top:0!important;height:auto!important}
+.rk-projroot .rk-projgallery.rk-photomode .rk-projimg,.rk-projroot .rk-projgallery.rk-photomode .rk-vwrap{height:auto!important;width:100%!important}
+.rk-projroot .rk-galnav{display:none!important}
 }
